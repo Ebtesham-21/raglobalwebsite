@@ -1,5 +1,5 @@
 //Navigation
-export const NAV_LINK = [
+export const NAV_LINKS = [
     {href:"/", key: "home", label: "Home", iconURL:"/home.svg"},
     {href:"/", key: "abouthome", label: "About", iconURL:"/about.svg"},
     {href:"/", key: "packages", label: "Packages", iconURL:"/earth.svg"},
@@ -26,4 +26,20 @@ export const CATEGORIES = [
         icon: 'shopping.svg',
     },
 
+];
+
+//Feature Section
+export const FEATURE = [
+    {
+        title: "paris",
+        URL: "/paris.jpg",
+        des: "3 places",
+    },
+    {
+        title: "australia",
+        URL: "/australia.jpg",
+        des: "3 places",
+    }
+   
 ]
+
