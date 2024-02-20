@@ -23,7 +23,7 @@ export const CATEGORIES = [
     },
     {
         title: 'shopping',
-        icon: 'shopping.svg',
+        icon: '/shopping.svg',
     },
 
 ];
